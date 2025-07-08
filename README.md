@@ -34,8 +34,12 @@
 25. `Задайте имя дашборда, если появится окно ввода имени дашборда`
 26. `Сделайте скриншот`
 
-
+![png](https://github.com/vajnichev/9-01-hw/blob/main/img/9.0.1.png)
 
 ### Задание 2
 
  `С помощью Yandex Monitoring сделайте 2 алерта на загрузку процессора: WARN и ALARM. Создайте уведомление по e-mail.`
+
+![png](https://github.com/vajnichev/9-01-hw/blob/main/img/9.0.2.png)
+![png](https://github.com/vajnichev/9-01-hw/blob/main/img/9.0.3.png)
+![png](https://github.com/vajnichev/9-01-hw/blob/main/img/9.0.4.png)
